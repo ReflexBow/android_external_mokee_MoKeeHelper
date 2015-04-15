@@ -122,7 +122,7 @@
   <string name="not_extras_download_failure">Додатак није преузет</string>
   <string name="not_extras_download_install_notice">Ажурирање <xliff:g id="filename">%s</xliff:g> је успешно преузето. Када додирнеш \'Рестартуј и инсталирај\', уређај ће се поново покренути да инсталира ажурирање.\n\nНапомена: Компатибилни \'Опоравак\' је потребан за аутоматску инсталацију.</string>
   <string name="not_extras_download_install_notice_apk">Додатак <xliff:g id="filename">%s</xliff:g> није преузет.</string>
-  <string name="not_apk_action_install_update">Instaliraj</string>
+  <string name="not_apk_action_install_update">Инсталација</string>
   <string name="confirm_delete_dialog_title">Избриши фајл</string>
   <string name="confirm_delete_updates_dialog_message">Избриши изабрани фајл за ажурирање?</string>
   <string name="confirm_delete_updates_all_dialog_message">Избриши све преузете фајлове ажурирања?</string>
